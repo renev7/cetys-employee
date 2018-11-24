@@ -10,7 +10,7 @@ var app = express();
 
 // Declare an array of JSON objects
 const employees1 = [
-  { id: 1, name: "Rene" },
+  { id: 1, name: "Pepe" },
   { id: 2, name: "Peter" }
 ];
 
